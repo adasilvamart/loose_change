@@ -1,0 +1,6 @@
+[pytest]
+    markers = 
+        cambio_negativo
+        cambio_decenas_positivo
+        cambio_cero
+        cambio_cincuenta
